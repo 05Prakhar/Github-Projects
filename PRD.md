@@ -1,8 +1,6 @@
 # Github-Projects
 New feature for Github enabling students to explore &amp; learn skills by developing hands-on projects
 
-Here’s a **full, structured PRD** you can actually present in an interview, pitch deck, or internal product review.
-
 ---
 
 # 📄 Product Requirements Document (PRD)
